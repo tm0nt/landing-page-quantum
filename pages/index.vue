@@ -7,7 +7,9 @@
 
     eager
   >
-    <VRow no-gutters class="fill-height mt-n15" justify="center" align="center">
+
+    <VRow no-gutters class="fill-height" justify="center" align="center">
+
 
       <VCol cols="12" md="6" order-md="first">
         <p class="text-medium-emphasis text-subtitle-1">
