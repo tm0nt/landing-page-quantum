@@ -31,6 +31,7 @@
               variant="elevated"
               min-height="60"
               class="text-capitalize"
+              href="https://wa.link/0d4m4u"
               color="primary"
               >Quero meu sistema</v-btn
             >
@@ -101,6 +102,7 @@
               rounded="lg"
               block
               variant="elevated"
+              href="https://wa.link/0d4m4u"
               min-height="60"
               class="text-capitalize"
               color="primary"
