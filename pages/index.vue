@@ -118,9 +118,10 @@
         </h1>
         <v-row justify="center" class="mt-4">
           <v-col cols="12" md="3">
-            <v-card variant="tonal" color="primary" rounded="xl" elevation="0" height="250">
+            <v-card variant="tonal" color="primary" rounded="xl" elevation="0" height="300">
               <v-card-title>
-                <h1 class="text-h2 mt-4 font-weight-bold">R$ 5.500</h1>
+                <h1 class="text-h3 mt-4 font-weight-bold">SOB</h1>
+                <h1 class="text-h3 mt-4 font-weight-bold mt-n2">CONSULTA</h1>
               </v-card-title>
               <v-card-text class="text-center">
                 <p class="mt-2 text-caption text-medium-emphasis">
@@ -134,10 +135,10 @@
             </v-card>
           </v-col>
           <v-col cols="12" md="3">
-            <v-card variant="tonal" color="primary" rounded="xl" flat elevation="0" height="250">
+            <v-card variant="tonal" color="primary" rounded="xl" flat elevation="0" height="300">
               <v-card-title>
-                <h1 class="text-h2 mt-4 font-weight-bold">R$ 1.500</h1>
-              </v-card-title>
+                <h1 class="text-h3 mt-4 font-weight-bold">SOB</h1>
+                <h1 class="text-h3 mt-4 font-weight-bold mt-n2">CONSULTA</h1>              </v-card-title>
               <v-card-text class="text-center">
                 <p class="mt-2 text-caption text-medium-emphasis">
                   Plataforma com layout personalizável, afiliação e jogos clonados (10 jogos) sem
